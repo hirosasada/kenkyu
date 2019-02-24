@@ -1,4 +1,4 @@
-[home](https://hirosasada.github.io/) > publications  
+[ホーム](https://hirosasada.github.io/japanese-home/) >研究業績   
 
 **著書**  
 - **『農業保護政策の起源: 近代日本の農政1874~1945』（勁草書房, 2018年）**  
