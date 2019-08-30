@@ -8,6 +8,7 @@
 
 **学術論文**  
 (査読付き論文)  
+- “Japan’s Aid Policy Reform and Infrastructure Development Assistance: Resurgence of the ‘Japan Model,’” in *Asian Survey*, forthcoming.  
 - “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japanese Agricultural Co-op,” in *Japanese Political Economy*, Vol. 41 No. 1-2, 2015, pp.1-22.  
 - “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” coauthored with N. Fujimura and S. Machidori in *Journal of East Asian Studies*, Vol. 13, No. 3, 2013, pp.409-441.  
 - “The Impact of Rural Votes in Foreign Policies: The FTA Policies under the DPJ government in Japan” in *Asian Journal of Political Science*, Vol.21, No. 3, 2013, pp.224-248.  
@@ -30,6 +31,7 @@
 - 『日本における市民社会の二重構造 — 政策提言なきメンバー達』 [*Japan’s Dual Civil Society: Members without Advocacy*], by R. Pekkanen, (木鐸社, 2008年).  　　
   
 **書評**  
+- Review of *Dynasties and Democracy*, by D. Smith (2018), in *Japanese Studies*, forthcoming.  
 - Review of Institutions, Incentives, and Electoral Participation in Japan, by Y. Horiuchi (2005) in *Journal of East Asian Studies*, Vol.7, No.3, 2007, pp.506-508.  
 - Review of Japan Remodeled: How Government and Industry are Reforming Japanese Capitalism, by S. Vogel (2005) in *Governance*, Vol. 20, No.4, 2007, pp.713-715.  
    
