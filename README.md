@@ -12,7 +12,7 @@
 - “The ‘Third Arrow’ or Friendly Fire? The LDP Government’s Reform Plan for the Japanese Agricultural Co-op,” in *Japanese Political Economy*, Vol. 41 No. 1-2, 2015, pp.1-22.  
 - “Alternative Paths to Party Polarization: External Impacts of Intraparty Organization in Japan” coauthored with N. Fujimura and S. Machidori in *Journal of East Asian Studies*, Vol. 13, No. 3, 2013, pp.409-441.  
 - “The Impact of Rural Votes in Foreign Policies: The FTA Policies under the DPJ government in Japan” in *Asian Journal of Political Science*, Vol.21, No. 3, 2013, pp.224-248.  
--「統制会・業界団体制度の発展過程 ―― 経路依存とアイディア」『レヴァイアサン』第48号, 2011年, pp.131-149.  
+-「統制会・業界団体制度の発展過程 ― 経路依存とアイディア」『レヴァイアサン』第48号, 2011年, pp.131-149.  
 - “The Electoral Origin of Japan’s Nationalistic Leadership: Primaries in the LDP Presidential Election and the Pull-Effect” in *Journal of East Asian Studies*, Vol.10, No.1, 2010, pp.1-30.  
 - “Japan’s New Agricultural Trade Policy and Electoral Reform: ‘Agricultural Policy in an Offensive Posture [seme no nōsei],’” in *Japanese Journal of Political Science*, Vol. 9. No. 2, 2008, pp.121-144.  
   
