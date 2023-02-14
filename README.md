@@ -1,7 +1,7 @@
 [ホーム](https://hirosasada.github.io/japanese-home/) > 研究業績   
 
 **著書**  
-- **『農業保護政策の起源: 近代日本の農政1874~1945』（勁草書房, 2018年）**  
+- [**『農業保護政策の起源: 近代日本の農政1874~1945』（勁草書房, 2018年）**](https://www.keisoshobo.co.jp/book/b378094.html)    
 - **『일본 발전국가의 기원과 진화』(Hanul Publishing, 2014年)**  
 -  ***The Evolution of Japanese Developmental State***　**(Routledge, 2013年)**  
 - **『制度発展と政策アイディア』(木鐸社, 2011年)**  
