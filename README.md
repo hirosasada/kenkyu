@@ -17,14 +17,20 @@
 - “Japan’s New Agricultural Trade Policy and Electoral Reform: ‘Agricultural Policy in an Offensive Posture [seme no nōsei],’” in *Japanese Journal of Political Science*, Vol. 9. No. 2, 2008, pp.121-144.  
   
 (査読なし論文)  
+- “The Legacy of the Abe Administration (2012-2020),” *Public Jurist*, January 2021, pp. 11-17.  
 - “Youth and Nationalism in Japan,” in *The SAIS Review*, Vol. 26, No. 2. 2006, pp. 109-122.  
 - 「国際政治におけるNGO活動の影響と問題点」（梶原晃氏との共著）『国民経済雑誌』第191巻, 5号, 2005年, pp.37-48.  
 - 「森林認証制度とグローバリズム」（梶原晃氏との共著）『国民経済雑誌』第188巻, 5号, 2003年, pp.51-61.  
   
 （その他の論文）  
+- “Japan’s Food Security Policy,” in K. Nakatsuji (Ed.). *Japan’s Security Policy*, London: Routledge, 2023, pp. 177–197.  
 - 「民主党政権における日本のFTA政策」中逵（編）『なぜリージョナリズムなのか』(ナカニシヤ出版, 2013年), pp.215-241.  
 - 「港湾における経済援助と技術供与」香川ほか（編）『経済社会と港湾』(パールロード, 2004年), pp.83-96.  
 - 「運輸問題における国際協力の形態と相対的利得」三村ほか（編）『交通と文化の史的融合』(八千代出版 2002年), pp.161–180.
+
+（解説記事）
+- [“Abe’s Death Shifts Balance of Power within LDP,”](https://www.eastasiaforum.org/2022/10/11/abes-death-shifts-balance-of-power-within-ldp) in *East Asia Forum*, October 11, 2022.  
+- [“Challenges in Boosting Japan’s Agricultural Exports,”](https://www.eastasiaforum.org/2021/03/12/challenges-in-boosting-japans-agricultural-exports) in *East Asia Forum*, March 12, 2021.  
   
 **翻訳書**  
 - 『通産省と日本の奇跡 — 産業政策の発展 1925-1975』[*MITI and the Japanese Miracle*], by C. Johnson (勁草書房, 2018年).  
