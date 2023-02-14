@@ -23,7 +23,7 @@
 - 「森林認証制度とグローバリズム」（梶原晃氏との共著）『国民経済雑誌』第188巻, 5号, 2003年, pp.51-61.  
   
 （その他の論文）  
-- “Japan’s Food Security Policy,” in K. Nakatsuji (Ed.). *Japan’s Security Policy*, London: Routledge, 2023, pp. 177–197.  
+- [“Japan’s Food Security Policy,” in K. Nakatsuji (Ed.). *Japan’s Security Policy*, London: Routledge, 2023, pp. 177–197.](https://www.routledge.com/Japans-Security-Policy/Nakatsuji/p/book/9781032139555)   
 - 「民主党政権における日本のFTA政策」中逵（編）『なぜリージョナリズムなのか』(ナカニシヤ出版, 2013年), pp.215-241.  
 - 「港湾における経済援助と技術供与」香川ほか（編）『経済社会と港湾』(パールロード, 2004年), pp.83-96.  
 - 「運輸問題における国際協力の形態と相対的利得」三村ほか（編）『交通と文化の史的融合』(八千代出版 2002年), pp.161–180.
